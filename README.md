@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mouadovic22
 - 👀 I’m interested in java j2ee spring Angular & react
 - 🌱 I’m interested in cloud (aws) and devops
-- 💞️ I’m looking to collaborate on improving frameworks i'm working on
 - 📫 How to reach me mouad.ouhaddou@gmail.com
 
 <!---
